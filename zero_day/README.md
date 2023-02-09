@@ -1,1 +1,1 @@
-smaller logo: ![ALT][1]
+iiiiler logo: ![Alt][1]
